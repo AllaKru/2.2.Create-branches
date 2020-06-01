@@ -13,7 +13,8 @@
 
 JavaScript:
 
-```<script src="https://localhost/neuro.sdk.min.js"></script>
+```
+<script src="https://localhost/neuro.sdk.min.js"></script>
 ```
 Java (Maven):
 ```
